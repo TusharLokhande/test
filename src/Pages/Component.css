@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* //position: relative; */
+  /* //height: 95vh; */
+}
+
+.button-alert {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  width: 100px;
+  height: 30px;
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  font-size: 18px;
+}
+
+.text_area {
+  position: absolute;
+  left: 46%;
+  top: 43%;
+}
